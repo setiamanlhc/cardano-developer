@@ -11,3 +11,6 @@ sample script and resource related to Cardano development
 * [Learn you a Haskell](http://learnyouahaskell.com/)
 * [Haskell and Crypto Currency Course](https://www.youtube.com/playlist?list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm)
 * [Unit Test](https://hackage.haskell.org/package/QuickCheck)
+
+## Cardano
+* [Ogmios - Cardano Interface](https://ogmios.dev/)
